@@ -1,2 +1,2 @@
-# fsPythonSTD
+# pystd
 Regenerated Python STDLib.
